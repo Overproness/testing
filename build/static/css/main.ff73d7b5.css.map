@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.ff73d7b5.css","mappings":"AAAA,WAGI,wBAA2B,CAC3B,gBAAiB,CACjB,iBAAkB,CAHlB,WAAY,CADZ,YAKJ","sources":["index.css"],"sourcesContent":[".error-msg{\r\n    padding: 10px;\r\n    margin: 10px;\r\n    background-color: lightgrey;\r\n    border: 3px solid;\r\n    border-radius: 5px;\r\n}"],"names":[],"sourceRoot":""}
